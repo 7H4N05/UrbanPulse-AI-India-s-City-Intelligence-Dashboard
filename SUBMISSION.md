@@ -7,6 +7,23 @@
 
 ---
 
+## 🎓 Quick Submission Fields
+
+1. **Prototype Link**: [Vercel Live URL](https://urban-pulse-ai-india-s-city-intelligence-d.vercel.app/) (or standard test locally at `http://localhost:3000`)
+2. **Public Datasets Used**:
+   - Central Pollution Control Board (CPCB) National Air Quality Index (AQI) Dataset
+   - Office of the Registrar General & Census Commissioner, India (2011 Census Demographic Dataset)
+3. **Data Selection Rationale (50-word Note)**:
+   > I selected the CPCB Air Quality Index and Indian Census population datasets to overlay environmental severity on demographic density. This integration uncovers whether urban scale amplifies pollution risk, highlighting true sustainability champions—cities managing high population coverage with low environmental footprints—which is essential for India's policy decisions.
+4. **Data Cleaning, Transformation & Structuring**:
+   Data processing and consolidation was implemented using a Node.js automation pipeline:
+   - **Geo-Mapping**: Screened and structured 100 prominent Indian cities mapping actual geographical coordinate variables (latitudes/longitudes) for vector maps.
+   - **Categorization**: Grouped active AQI indicators into standard CPCB severity classifications (Good, Moderate, Poor, Severe) using logic bounds.
+   - **Seasonality Simulation**: Injected monthly arrays simulating winter seasonality AQI spikes (higher values in Dec/Jan for Northern states) to mimic real-world annual patterns.
+   - **Mathematical Normalization**: Constructed a log-normalized population scale and combined it with normalized air quality factors to generate dynamic, multi-factor ecological rankings.
+
+---
+
 ## 📋 Table of Contents
 1. [Core Features Checklist](#-core-features-checklist)
 2. [Bonus Features Checklist](#-bonus-features-checklist)
