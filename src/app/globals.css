@@ -1,26 +1,200 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* HSL Values for easy manipulation */
+  --bg-primary: 210 40% 98%;
+  --fg-primary: 222 47% 11%;
+  
+  --card-bg: 0 0% 100% / 0.7;
+  --card-border: 214 32% 91% / 0.5;
+  --card-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.04);
+  
+  --glass-bg: 0 0% 100% / 0.4;
+  --glass-border: 255 255 255 / 0.3;
+  --blur-amount: 12px;
+  
+  --accent-cyan: 193 95% 45%;
+  --accent-emerald: 150 84% 37%;
+  --accent-amber: 38 92% 50%;
+  --accent-orange: 24 95% 53%;
+  --accent-red: 0 84% 60%;
+  --accent-blue: 217 91% 60%;
+  
+  --border-color: 214 32% 91%;
+  --divider-color: 214 32% 91% / 0.3;
+  
+  --scrollbar-thumb: 215 16% 80%;
+  --scrollbar-track: 210 40% 96%;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.dark {
+  --bg-primary: 224 71% 4%;
+  --fg-primary: 210 40% 98%;
+  
+  --card-bg: 224 71% 4% / 0.6;
+  --card-border: 217 32% 17% / 0.5;
+  --card-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  
+  --glass-bg: 224 71% 6% / 0.5;
+  --glass-border: 217 32% 17% / 0.4;
+  
+  --border-color: 217 32% 17%;
+  --divider-color: 217 32% 17% / 0.3;
+  
+  --scrollbar-thumb: 217 32% 25%;
+  --scrollbar-track: 224 71% 6%;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: hsl(var(--bg-primary));
+  color: hsl(var(--fg-primary));
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  min-height: 100vh;
+}
+
+/* Custom Scrollbar for modern analytics feel */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--scrollbar-track));
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--scrollbar-thumb));
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--accent-blue));
+}
+
+/* Glassmorphism utility classes */
+.glass-panel {
+  background: hsl(var(--card-bg));
+  backdrop-filter: blur(var(--blur-amount));
+  -webkit-backdrop-filter: blur(var(--blur-amount));
+  border: 1px solid hsl(var(--card-border));
+  box-shadow: var(--card-shadow);
+  border-radius: 1rem;
+  transition: border-color 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
+}
+
+.glass-panel:hover {
+  border-color: hsl(var(--accent-blue) / 0.3);
+}
+
+.glass-card-interactive {
+  background: hsl(var(--card-bg));
+  backdrop-filter: blur(var(--blur-amount));
+  border: 1px solid hsl(var(--card-border));
+  box-shadow: var(--card-shadow);
+  border-radius: 1rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card-interactive:hover {
+  transform: translateY(-2px);
+  border-color: hsl(var(--accent-blue) / 0.4);
+  box-shadow: 0 12px 40px 0 rgba(0, 0, 0, 0.15);
+}
+
+.glass-input {
+  background: hsl(var(--bg-primary) / 0.5);
+  backdrop-filter: blur(4px);
+  border: 1px solid hsl(var(--border-color));
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  color: hsl(var(--fg-primary));
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+.glass-input:focus {
+  border-color: hsl(var(--accent-blue));
+  box-shadow: 0 0 0 2px hsl(var(--accent-blue) / 0.2);
+}
+
+/* Map specific styling */
+.india-map-path {
+  fill: hsl(var(--bg-primary) / 0.7);
+  stroke: hsl(var(--fg-primary) / 0.15);
+  stroke-width: 1.2px;
+  transition: fill 0.3s ease, stroke 0.3s ease;
+}
+
+.india-map-path:hover {
+  fill: hsl(var(--bg-primary) / 0.9);
+  stroke: hsl(var(--accent-blue) / 0.4);
+}
+
+/* Keyframe Animations */
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.65);
+    opacity: 0.8;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    transform: scale(1.4);
+    opacity: 0;
+  }
+}
+
+.pulse-ring-glow {
+  position: absolute;
+  border-radius: 9999px;
+  animation: pulse-ring 2s cubic-bezier(0.215, 0.610, 0.355, 1) infinite;
+}
+
+.dashboard-grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+/* Glass Tabs */
+.glass-tab-trigger {
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.glass-tab-trigger[data-active="true"] {
+  color: hsl(var(--accent-blue));
+  background: hsl(var(--accent-blue) / 0.1);
+}
+
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+  .glass-panel {
+    background: transparent !important;
+    border: 1px solid rgba(0, 0, 0, 0.15) !important;
+    box-shadow: none !important;
+    backdrop-filter: none !important;
+    color: #000000 !important;
+    border-radius: 0.5rem !important;
+  }
+  .glass-card-interactive {
+    background: transparent !important;
+    border: 1px solid rgba(0, 0, 0, 0.15) !important;
+    box-shadow: none !important;
+    backdrop-filter: none !important;
+    color: #000000 !important;
+    border-radius: 0.5rem !important;
+    transform: none !important;
+  }
+  .india-map-path {
+    fill: #f8fafc !important;
+    stroke: #cbd5e1 !important;
+  }
+  h1, h2, h3, h4, span, p, td, th {
+    color: #000000 !important;
+  }
 }

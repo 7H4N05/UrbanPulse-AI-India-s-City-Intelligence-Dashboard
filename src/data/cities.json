@@ -1,0 +1,3702 @@
+[
+  {
+    "id": "city-3",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "population": 8443675,
+    "aqi": 68,
+    "aqiCategory": "Moderate",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 78
+      },
+      {
+        "date": "Jan",
+        "aqi": 74
+      },
+      {
+        "date": "Feb",
+        "aqi": 69
+      },
+      {
+        "date": "Mar",
+        "aqi": 66
+      },
+      {
+        "date": "Apr",
+        "aqi": 67
+      },
+      {
+        "date": "May",
+        "aqi": 61
+      }
+    ],
+    "rank": 1
+  },
+  {
+    "id": "city-52",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "population": 893062,
+    "aqi": 35,
+    "aqiCategory": "Good",
+    "latitude": 12.2958,
+    "longitude": 76.6394,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 38
+      },
+      {
+        "date": "Jan",
+        "aqi": 37
+      },
+      {
+        "date": "Feb",
+        "aqi": 36
+      },
+      {
+        "date": "Mar",
+        "aqi": 35
+      },
+      {
+        "date": "Apr",
+        "aqi": 34
+      },
+      {
+        "date": "May",
+        "aqi": 32
+      }
+    ],
+    "rank": 2
+  },
+  {
+    "id": "city-4",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "population": 4646732,
+    "aqi": 72,
+    "aqiCategory": "Moderate",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 81
+      },
+      {
+        "date": "Jan",
+        "aqi": 81
+      },
+      {
+        "date": "Feb",
+        "aqi": 69
+      },
+      {
+        "date": "Mar",
+        "aqi": 71
+      },
+      {
+        "date": "Apr",
+        "aqi": 72
+      },
+      {
+        "date": "May",
+        "aqi": 64
+      }
+    ],
+    "rank": 3
+  },
+  {
+    "id": "city-40",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "population": 1050721,
+    "aqi": 48,
+    "aqiCategory": "Good",
+    "latitude": 11.0168,
+    "longitude": 76.9558,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 53
+      },
+      {
+        "date": "Jan",
+        "aqi": 51
+      },
+      {
+        "date": "Feb",
+        "aqi": 46
+      },
+      {
+        "date": "Mar",
+        "aqi": 47
+      },
+      {
+        "date": "Apr",
+        "aqi": 50
+      },
+      {
+        "date": "May",
+        "aqi": 43
+      }
+    ],
+    "rank": 4
+  },
+  {
+    "id": "city-30",
+    "city": "Srinagar",
+    "state": "Jammu and Kashmir",
+    "population": 1180570,
+    "aqi": 52,
+    "aqiCategory": "Moderate",
+    "latitude": 34.0837,
+    "longitude": 74.7973,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 67
+      },
+      {
+        "date": "Jan",
+        "aqi": 64
+      },
+      {
+        "date": "Feb",
+        "aqi": 58
+      },
+      {
+        "date": "Mar",
+        "aqi": 50
+      },
+      {
+        "date": "Apr",
+        "aqi": 41
+      },
+      {
+        "date": "May",
+        "aqi": 44
+      }
+    ],
+    "rank": 5
+  },
+  {
+    "id": "city-83",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "population": 293416,
+    "aqi": 20,
+    "aqiCategory": "Good",
+    "latitude": 23.7307,
+    "longitude": 92.7173,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 21
+      },
+      {
+        "date": "Jan",
+        "aqi": 23
+      },
+      {
+        "date": "Feb",
+        "aqi": 21
+      },
+      {
+        "date": "Mar",
+        "aqi": 20
+      },
+      {
+        "date": "Apr",
+        "aqi": 20
+      },
+      {
+        "date": "May",
+        "aqi": 18
+      }
+    ],
+    "rank": 6
+  },
+  {
+    "id": "city-61",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "population": 746829,
+    "aqi": 42,
+    "aqiCategory": "Good",
+    "latitude": 8.5241,
+    "longitude": 76.9366,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 45
+      },
+      {
+        "date": "Jan",
+        "aqi": 44
+      },
+      {
+        "date": "Feb",
+        "aqi": 41
+      },
+      {
+        "date": "Mar",
+        "aqi": 43
+      },
+      {
+        "date": "Apr",
+        "aqi": 41
+      },
+      {
+        "date": "May",
+        "aqi": 36
+      }
+    ],
+    "rank": 7
+  },
+  {
+    "id": "city-6",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "population": 6731790,
+    "aqi": 92,
+    "aqiCategory": "Moderate",
+    "latitude": 17.385,
+    "longitude": 78.4867,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 99
+      },
+      {
+        "date": "Jan",
+        "aqi": 99
+      },
+      {
+        "date": "Feb",
+        "aqi": 89
+      },
+      {
+        "date": "Mar",
+        "aqi": 94
+      },
+      {
+        "date": "Apr",
+        "aqi": 95
+      },
+      {
+        "date": "May",
+        "aqi": 80
+      }
+    ],
+    "rank": 8
+  },
+  {
+    "id": "city-43",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "population": 1017865,
+    "aqi": 55,
+    "aqiCategory": "Moderate",
+    "latitude": 9.9252,
+    "longitude": 78.1198,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 60
+      },
+      {
+        "date": "Jan",
+        "aqi": 63
+      },
+      {
+        "date": "Feb",
+        "aqi": 53
+      },
+      {
+        "date": "Mar",
+        "aqi": 55
+      },
+      {
+        "date": "Apr",
+        "aqi": 53
+      },
+      {
+        "date": "May",
+        "aqi": 51
+      }
+    ],
+    "rank": 9
+  },
+  {
+    "id": "city-73",
+    "city": "Kochi",
+    "state": "Kerala",
+    "population": 602046,
+    "aqi": 49,
+    "aqiCategory": "Good",
+    "latitude": 9.9312,
+    "longitude": 76.2673,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 53
+      },
+      {
+        "date": "Jan",
+        "aqi": 53
+      },
+      {
+        "date": "Feb",
+        "aqi": 50
+      },
+      {
+        "date": "Mar",
+        "aqi": 51
+      },
+      {
+        "date": "Apr",
+        "aqi": 51
+      },
+      {
+        "date": "May",
+        "aqi": 46
+      }
+    ],
+    "rank": 10
+  },
+  {
+    "id": "city-13",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "population": 2405665,
+    "aqi": 78,
+    "aqiCategory": "Moderate",
+    "latitude": 21.1458,
+    "longitude": 79.0882,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 89
+      },
+      {
+        "date": "Jan",
+        "aqi": 84
+      },
+      {
+        "date": "Feb",
+        "aqi": 75
+      },
+      {
+        "date": "Mar",
+        "aqi": 78
+      },
+      {
+        "date": "Apr",
+        "aqi": 75
+      },
+      {
+        "date": "May",
+        "aqi": 67
+      }
+    ],
+    "rank": 11
+  },
+  {
+    "id": "city-56",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "population": 847387,
+    "aqi": 58,
+    "aqiCategory": "Moderate",
+    "latitude": 10.7905,
+    "longitude": 78.7047,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 62
+      },
+      {
+        "date": "Jan",
+        "aqi": 66
+      },
+      {
+        "date": "Feb",
+        "aqi": 59
+      },
+      {
+        "date": "Mar",
+        "aqi": 59
+      },
+      {
+        "date": "Apr",
+        "aqi": 57
+      },
+      {
+        "date": "May",
+        "aqi": 53
+      }
+    ],
+    "rank": 12
+  },
+  {
+    "id": "city-7",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "population": 3124458,
+    "aqi": 85,
+    "aqiCategory": "Moderate",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 92
+      },
+      {
+        "date": "Jan",
+        "aqi": 91
+      },
+      {
+        "date": "Feb",
+        "aqi": 89
+      },
+      {
+        "date": "Mar",
+        "aqi": 82
+      },
+      {
+        "date": "Apr",
+        "aqi": 82
+      },
+      {
+        "date": "May",
+        "aqi": 78
+      }
+    ],
+    "rank": 13
+  },
+  {
+    "id": "city-98",
+    "city": "Tirupur",
+    "state": "Tamil Nadu",
+    "population": 879578,
+    "aqi": 60,
+    "aqiCategory": "Moderate",
+    "latitude": 11.1085,
+    "longitude": 77.3411,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 64
+      },
+      {
+        "date": "Jan",
+        "aqi": 65
+      },
+      {
+        "date": "Feb",
+        "aqi": 60
+      },
+      {
+        "date": "Mar",
+        "aqi": 62
+      },
+      {
+        "date": "Apr",
+        "aqi": 63
+      },
+      {
+        "date": "May",
+        "aqi": 56
+      }
+    ],
+    "rank": 14
+  },
+  {
+    "id": "city-49",
+    "city": "Hubli-Dharwad",
+    "state": "Karnataka",
+    "population": 943788,
+    "aqi": 62,
+    "aqiCategory": "Moderate",
+    "latitude": 15.3647,
+    "longitude": 75.124,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 70
+      },
+      {
+        "date": "Jan",
+        "aqi": 66
+      },
+      {
+        "date": "Feb",
+        "aqi": 60
+      },
+      {
+        "date": "Mar",
+        "aqi": 62
+      },
+      {
+        "date": "Apr",
+        "aqi": 60
+      },
+      {
+        "date": "May",
+        "aqi": 53
+      }
+    ],
+    "rank": 15
+  },
+  {
+    "id": "city-100",
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "population": 484785,
+    "aqi": 48,
+    "aqiCategory": "Good",
+    "latitude": 12.9141,
+    "longitude": 74.856,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 54
+      },
+      {
+        "date": "Jan",
+        "aqi": 53
+      },
+      {
+        "date": "Feb",
+        "aqi": 46
+      },
+      {
+        "date": "Mar",
+        "aqi": 49
+      },
+      {
+        "date": "Apr",
+        "aqi": 48
+      },
+      {
+        "date": "May",
+        "aqi": 42
+      }
+    ],
+    "rank": 16
+  },
+  {
+    "id": "city-23",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "population": 1486053,
+    "aqi": 75,
+    "aqiCategory": "Moderate",
+    "latitude": 19.9975,
+    "longitude": 73.7898,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 82
+      },
+      {
+        "date": "Jan",
+        "aqi": 83
+      },
+      {
+        "date": "Feb",
+        "aqi": 73
+      },
+      {
+        "date": "Mar",
+        "aqi": 77
+      },
+      {
+        "date": "Apr",
+        "aqi": 75
+      },
+      {
+        "date": "May",
+        "aqi": 68
+      }
+    ],
+    "rank": 17
+  },
+  {
+    "id": "city-99",
+    "city": "Kollam",
+    "state": "Kerala",
+    "population": 349033,
+    "aqi": 44,
+    "aqiCategory": "Good",
+    "latitude": 8.8932,
+    "longitude": 76.6141,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 50
+      },
+      {
+        "date": "Jan",
+        "aqi": 50
+      },
+      {
+        "date": "Feb",
+        "aqi": 42
+      },
+      {
+        "date": "Mar",
+        "aqi": 44
+      },
+      {
+        "date": "Apr",
+        "aqi": 44
+      },
+      {
+        "date": "May",
+        "aqi": 41
+      }
+    ],
+    "rank": 18
+  },
+  {
+    "id": "city-15",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "population": 1964086,
+    "aqi": 82,
+    "aqiCategory": "Moderate",
+    "latitude": 22.7196,
+    "longitude": 75.8577,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 93
+      },
+      {
+        "date": "Jan",
+        "aqi": 89
+      },
+      {
+        "date": "Feb",
+        "aqi": 85
+      },
+      {
+        "date": "Mar",
+        "aqi": 84
+      },
+      {
+        "date": "Apr",
+        "aqi": 82
+      },
+      {
+        "date": "May",
+        "aqi": 77
+      }
+    ],
+    "rank": 19
+  },
+  {
+    "id": "city-58",
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "population": 829267,
+    "aqi": 65,
+    "aqiCategory": "Moderate",
+    "latitude": 11.6643,
+    "longitude": 78.146,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 68
+      },
+      {
+        "date": "Jan",
+        "aqi": 69
+      },
+      {
+        "date": "Feb",
+        "aqi": 66
+      },
+      {
+        "date": "Mar",
+        "aqi": 65
+      },
+      {
+        "date": "Apr",
+        "aqi": 64
+      },
+      {
+        "date": "May",
+        "aqi": 56
+      }
+    ],
+    "rank": 20
+  },
+  {
+    "id": "city-81",
+    "city": "Imphal",
+    "state": "Manipur",
+    "population": 268243,
+    "aqi": 40,
+    "aqiCategory": "Good",
+    "latitude": 24.817,
+    "longitude": 93.9368,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 44
+      },
+      {
+        "date": "Jan",
+        "aqi": 44
+      },
+      {
+        "date": "Feb",
+        "aqi": 40
+      },
+      {
+        "date": "Mar",
+        "aqi": 39
+      },
+      {
+        "date": "Apr",
+        "aqi": 40
+      },
+      {
+        "date": "May",
+        "aqi": 37
+      }
+    ],
+    "rank": 21
+  },
+  {
+    "id": "city-78",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "population": 169578,
+    "aqi": 30,
+    "aqiCategory": "Good",
+    "latitude": 31.1048,
+    "longitude": 77.1734,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 36
+      },
+      {
+        "date": "Jan",
+        "aqi": 38
+      },
+      {
+        "date": "Feb",
+        "aqi": 32
+      },
+      {
+        "date": "Mar",
+        "aqi": 28
+      },
+      {
+        "date": "Apr",
+        "aqi": 24
+      },
+      {
+        "date": "May",
+        "aqi": 23
+      }
+    ],
+    "rank": 22
+  },
+  {
+    "id": "city-80",
+    "city": "Shillong",
+    "state": "Meghalaya",
+    "population": 143229,
+    "aqi": 28,
+    "aqiCategory": "Good",
+    "latitude": 25.5788,
+    "longitude": 91.8933,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 32
+      },
+      {
+        "date": "Jan",
+        "aqi": 29
+      },
+      {
+        "date": "Feb",
+        "aqi": 27
+      },
+      {
+        "date": "Mar",
+        "aqi": 27
+      },
+      {
+        "date": "Apr",
+        "aqi": 27
+      },
+      {
+        "date": "May",
+        "aqi": 25
+      }
+    ],
+    "rank": 23
+  },
+  {
+    "id": "city-60",
+    "city": "Warangal",
+    "state": "Telangana",
+    "population": 811865,
+    "aqi": 70,
+    "aqiCategory": "Moderate",
+    "latitude": 17.9689,
+    "longitude": 79.5941,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 77
+      },
+      {
+        "date": "Jan",
+        "aqi": 75
+      },
+      {
+        "date": "Feb",
+        "aqi": 69
+      },
+      {
+        "date": "Mar",
+        "aqi": 67
+      },
+      {
+        "date": "Apr",
+        "aqi": 69
+      },
+      {
+        "date": "May",
+        "aqi": 63
+      }
+    ],
+    "rank": 24
+  },
+  {
+    "id": "city-79",
+    "city": "Gangtok",
+    "state": "Sikkim",
+    "population": 100286,
+    "aqi": 25,
+    "aqiCategory": "Good",
+    "latitude": 27.3314,
+    "longitude": 88.6138,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 29
+      },
+      {
+        "date": "Jan",
+        "aqi": 28
+      },
+      {
+        "date": "Feb",
+        "aqi": 25
+      },
+      {
+        "date": "Mar",
+        "aqi": 24
+      },
+      {
+        "date": "Apr",
+        "aqi": 25
+      },
+      {
+        "date": "May",
+        "aqi": 24
+      }
+    ],
+    "rank": 25
+  },
+  {
+    "id": "city-18",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "population": 1728128,
+    "aqi": 89,
+    "aqiCategory": "Moderate",
+    "latitude": 17.6868,
+    "longitude": 83.2185,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 97
+      },
+      {
+        "date": "Jan",
+        "aqi": 98
+      },
+      {
+        "date": "Feb",
+        "aqi": 86
+      },
+      {
+        "date": "Mar",
+        "aqi": 92
+      },
+      {
+        "date": "Apr",
+        "aqi": 93
+      },
+      {
+        "date": "May",
+        "aqi": 78
+      }
+    ],
+    "rank": 26
+  },
+  {
+    "id": "city-2",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "population": 12442373,
+    "aqi": 125,
+    "aqiCategory": "Moderate",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 136
+      },
+      {
+        "date": "Jan",
+        "aqi": 140
+      },
+      {
+        "date": "Feb",
+        "aqi": 123
+      },
+      {
+        "date": "Mar",
+        "aqi": 121
+      },
+      {
+        "date": "Apr",
+        "aqi": 127
+      },
+      {
+        "date": "May",
+        "aqi": 107
+      }
+    ],
+    "rank": 27
+  },
+  {
+    "id": "city-41",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "population": 1034358,
+    "aqi": 80,
+    "aqiCategory": "Moderate",
+    "latitude": 16.5062,
+    "longitude": 80.648,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 89
+      },
+      {
+        "date": "Jan",
+        "aqi": 91
+      },
+      {
+        "date": "Feb",
+        "aqi": 78
+      },
+      {
+        "date": "Mar",
+        "aqi": 83
+      },
+      {
+        "date": "Apr",
+        "aqi": 77
+      },
+      {
+        "date": "May",
+        "aqi": 72
+      }
+    ],
+    "rank": 28
+  },
+  {
+    "id": "city-84",
+    "city": "Kohima",
+    "state": "Nagaland",
+    "population": 99039,
+    "aqi": 27,
+    "aqiCategory": "Good",
+    "latitude": 25.6751,
+    "longitude": 94.1086,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 29
+      },
+      {
+        "date": "Jan",
+        "aqi": 29
+      },
+      {
+        "date": "Feb",
+        "aqi": 27
+      },
+      {
+        "date": "Mar",
+        "aqi": 26
+      },
+      {
+        "date": "Apr",
+        "aqi": 27
+      },
+      {
+        "date": "May",
+        "aqi": 24
+      }
+    ],
+    "rank": 29
+  },
+  {
+    "id": "city-74",
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "population": 600869,
+    "aqi": 70,
+    "aqiCategory": "Moderate",
+    "latitude": 14.4426,
+    "longitude": 79.9865,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 75
+      },
+      {
+        "date": "Jan",
+        "aqi": 77
+      },
+      {
+        "date": "Feb",
+        "aqi": 72
+      },
+      {
+        "date": "Mar",
+        "aqi": 68
+      },
+      {
+        "date": "Apr",
+        "aqi": 67
+      },
+      {
+        "date": "May",
+        "aqi": 62
+      }
+    ],
+    "rank": 30
+  },
+  {
+    "id": "city-87",
+    "city": "Pondicherry",
+    "state": "Puducherry",
+    "population": 244377,
+    "aqi": 50,
+    "aqiCategory": "Good",
+    "latitude": 11.9416,
+    "longitude": 79.8083,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 58
+      },
+      {
+        "date": "Jan",
+        "aqi": 53
+      },
+      {
+        "date": "Feb",
+        "aqi": 50
+      },
+      {
+        "date": "Mar",
+        "aqi": 52
+      },
+      {
+        "date": "Apr",
+        "aqi": 52
+      },
+      {
+        "date": "May",
+        "aqi": 43
+      }
+    ],
+    "rank": 31
+  },
+  {
+    "id": "city-85",
+    "city": "Agartala",
+    "state": "Tripura",
+    "population": 400004,
+    "aqi": 62,
+    "aqiCategory": "Moderate",
+    "latitude": 23.8315,
+    "longitude": 91.2868,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 67
+      },
+      {
+        "date": "Jan",
+        "aqi": 68
+      },
+      {
+        "date": "Feb",
+        "aqi": 65
+      },
+      {
+        "date": "Mar",
+        "aqi": 61
+      },
+      {
+        "date": "Apr",
+        "aqi": 60
+      },
+      {
+        "date": "May",
+        "aqi": 54
+      }
+    ],
+    "rank": 32
+  },
+  {
+    "id": "city-34",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "population": 1120547,
+    "aqi": 84,
+    "aqiCategory": "Moderate",
+    "latitude": 19.033,
+    "longitude": 73.0297,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 92
+      },
+      {
+        "date": "Jan",
+        "aqi": 89
+      },
+      {
+        "date": "Feb",
+        "aqi": 83
+      },
+      {
+        "date": "Mar",
+        "aqi": 88
+      },
+      {
+        "date": "Apr",
+        "aqi": 88
+      },
+      {
+        "date": "May",
+        "aqi": 76
+      }
+    ],
+    "rank": 33
+  },
+  {
+    "id": "city-9",
+    "city": "Surat",
+    "state": "Gujarat",
+    "population": 4466826,
+    "aqi": 110,
+    "aqiCategory": "Moderate",
+    "latitude": 21.1702,
+    "longitude": 72.8311,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 118
+      },
+      {
+        "date": "Jan",
+        "aqi": 121
+      },
+      {
+        "date": "Feb",
+        "aqi": 108
+      },
+      {
+        "date": "Mar",
+        "aqi": 115
+      },
+      {
+        "date": "Apr",
+        "aqi": 112
+      },
+      {
+        "date": "May",
+        "aqi": 100
+      }
+    ],
+    "rank": 34
+  },
+  {
+    "id": "city-62",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "population": 743354,
+    "aqi": 76,
+    "aqiCategory": "Moderate",
+    "latitude": 16.3067,
+    "longitude": 80.4365,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 83
+      },
+      {
+        "date": "Jan",
+        "aqi": 83
+      },
+      {
+        "date": "Feb",
+        "aqi": 77
+      },
+      {
+        "date": "Mar",
+        "aqi": 75
+      },
+      {
+        "date": "Apr",
+        "aqi": 77
+      },
+      {
+        "date": "May",
+        "aqi": 66
+      }
+    ],
+    "rank": 35
+  },
+  {
+    "id": "city-88",
+    "city": "Port Blair",
+    "state": "Andaman and Nicobar",
+    "population": 108087,
+    "aqi": 32,
+    "aqiCategory": "Good",
+    "latitude": 11.6234,
+    "longitude": 92.7265,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 36
+      },
+      {
+        "date": "Jan",
+        "aqi": 37
+      },
+      {
+        "date": "Feb",
+        "aqi": 33
+      },
+      {
+        "date": "Mar",
+        "aqi": 31
+      },
+      {
+        "date": "Apr",
+        "aqi": 32
+      },
+      {
+        "date": "May",
+        "aqi": 30
+      }
+    ],
+    "rank": 36
+  },
+  {
+    "id": "city-67",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "population": 647057,
+    "aqi": 74,
+    "aqiCategory": "Moderate",
+    "latitude": 20.9374,
+    "longitude": 77.7796,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 83
+      },
+      {
+        "date": "Jan",
+        "aqi": 84
+      },
+      {
+        "date": "Feb",
+        "aqi": 71
+      },
+      {
+        "date": "Mar",
+        "aqi": 71
+      },
+      {
+        "date": "Apr",
+        "aqi": 76
+      },
+      {
+        "date": "May",
+        "aqi": 67
+      }
+    ],
+    "rank": 37
+  },
+  {
+    "id": "city-31",
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "population": 1175116,
+    "aqi": 88,
+    "aqiCategory": "Moderate",
+    "latitude": 19.8762,
+    "longitude": 75.3433,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 96
+      },
+      {
+        "date": "Jan",
+        "aqi": 101
+      },
+      {
+        "date": "Feb",
+        "aqi": 88
+      },
+      {
+        "date": "Mar",
+        "aqi": 86
+      },
+      {
+        "date": "Apr",
+        "aqi": 92
+      },
+      {
+        "date": "May",
+        "aqi": 76
+      }
+    ],
+    "rank": 38
+  },
+  {
+    "id": "city-19",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "population": 1670806,
+    "aqi": 95,
+    "aqiCategory": "Moderate",
+    "latitude": 22.3072,
+    "longitude": 73.1812,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 102
+      },
+      {
+        "date": "Jan",
+        "aqi": 107
+      },
+      {
+        "date": "Feb",
+        "aqi": 99
+      },
+      {
+        "date": "Mar",
+        "aqi": 98
+      },
+      {
+        "date": "Apr",
+        "aqi": 94
+      },
+      {
+        "date": "May",
+        "aqi": 85
+      }
+    ],
+    "rank": 39
+  },
+  {
+    "id": "city-26",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "population": 1286678,
+    "aqi": 90,
+    "aqiCategory": "Moderate",
+    "latitude": 22.3039,
+    "longitude": 70.8022,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 96
+      },
+      {
+        "date": "Jan",
+        "aqi": 99
+      },
+      {
+        "date": "Feb",
+        "aqi": 89
+      },
+      {
+        "date": "Mar",
+        "aqi": 87
+      },
+      {
+        "date": "Apr",
+        "aqi": 87
+      },
+      {
+        "date": "May",
+        "aqi": 78
+      }
+    ],
+    "rank": 40
+  },
+  {
+    "id": "city-57",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "population": 837737,
+    "aqi": 82,
+    "aqiCategory": "Moderate",
+    "latitude": 20.2961,
+    "longitude": 85.8245,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 87
+      },
+      {
+        "date": "Jan",
+        "aqi": 87
+      },
+      {
+        "date": "Feb",
+        "aqi": 78
+      },
+      {
+        "date": "Mar",
+        "aqi": 80
+      },
+      {
+        "date": "Apr",
+        "aqi": 79
+      },
+      {
+        "date": "May",
+        "aqi": 77
+      }
+    ],
+    "rank": 41
+  },
+  {
+    "id": "city-17",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "population": 1798218,
+    "aqi": 98,
+    "aqiCategory": "Moderate",
+    "latitude": 23.2599,
+    "longitude": 77.4126,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 108
+      },
+      {
+        "date": "Jan",
+        "aqi": 104
+      },
+      {
+        "date": "Feb",
+        "aqi": 95
+      },
+      {
+        "date": "Mar",
+        "aqi": 100
+      },
+      {
+        "date": "Apr",
+        "aqi": 95
+      },
+      {
+        "date": "May",
+        "aqi": 91
+      }
+    ],
+    "rank": 42
+  },
+  {
+    "id": "city-82",
+    "city": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "population": 59490,
+    "aqi": 22,
+    "aqiCategory": "Good",
+    "latitude": 27.0844,
+    "longitude": 93.6053,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 24
+      },
+      {
+        "date": "Jan",
+        "aqi": 25
+      },
+      {
+        "date": "Feb",
+        "aqi": 22
+      },
+      {
+        "date": "Mar",
+        "aqi": 23
+      },
+      {
+        "date": "Apr",
+        "aqi": 23
+      },
+      {
+        "date": "May",
+        "aqi": 19
+      }
+    ],
+    "rank": 43
+  },
+  {
+    "id": "city-47",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "population": 961587,
+    "aqi": 88,
+    "aqiCategory": "Moderate",
+    "latitude": 30.7333,
+    "longitude": 76.7794,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 111
+      },
+      {
+        "date": "Jan",
+        "aqi": 110
+      },
+      {
+        "date": "Feb",
+        "aqi": 95
+      },
+      {
+        "date": "Mar",
+        "aqi": 87
+      },
+      {
+        "date": "Apr",
+        "aqi": 74
+      },
+      {
+        "date": "May",
+        "aqi": 73
+      }
+    ],
+    "rank": 44
+  },
+  {
+    "id": "city-39",
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "population": 1055525,
+    "aqi": 91,
+    "aqiCategory": "Moderate",
+    "latitude": 22.156,
+    "longitude": 79.932,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 98
+      },
+      {
+        "date": "Jan",
+        "aqi": 104
+      },
+      {
+        "date": "Feb",
+        "aqi": 86
+      },
+      {
+        "date": "Mar",
+        "aqi": 92
+      },
+      {
+        "date": "Apr",
+        "aqi": 87
+      },
+      {
+        "date": "May",
+        "aqi": 78
+      }
+    ],
+    "rank": 45
+  },
+  {
+    "id": "city-86",
+    "city": "Panaji",
+    "state": "Goa",
+    "population": 114754,
+    "aqi": 45,
+    "aqiCategory": "Good",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 49
+      },
+      {
+        "date": "Jan",
+        "aqi": 48
+      },
+      {
+        "date": "Feb",
+        "aqi": 45
+      },
+      {
+        "date": "Mar",
+        "aqi": 47
+      },
+      {
+        "date": "Apr",
+        "aqi": 45
+      },
+      {
+        "date": "May",
+        "aqi": 42
+      }
+    ],
+    "rank": 46
+  },
+  {
+    "id": "city-48",
+    "city": "Solapur",
+    "state": "Maharashtra",
+    "population": 951558,
+    "aqi": 92,
+    "aqiCategory": "Moderate",
+    "latitude": 17.6599,
+    "longitude": 75.9064,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 105
+      },
+      {
+        "date": "Jan",
+        "aqi": 98
+      },
+      {
+        "date": "Feb",
+        "aqi": 94
+      },
+      {
+        "date": "Mar",
+        "aqi": 90
+      },
+      {
+        "date": "Apr",
+        "aqi": 88
+      },
+      {
+        "date": "May",
+        "aqi": 82
+      }
+    ],
+    "rank": 47
+  },
+  {
+    "id": "city-37",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "population": 1073427,
+    "aqi": 98,
+    "aqiCategory": "Moderate",
+    "latitude": 23.3441,
+    "longitude": 85.3096,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 104
+      },
+      {
+        "date": "Jan",
+        "aqi": 109
+      },
+      {
+        "date": "Feb",
+        "aqi": 101
+      },
+      {
+        "date": "Mar",
+        "aqi": 96
+      },
+      {
+        "date": "Apr",
+        "aqi": 96
+      },
+      {
+        "date": "May",
+        "aqi": 87
+      }
+    ],
+    "rank": 48
+  },
+  {
+    "id": "city-71",
+    "city": "Cuttack",
+    "state": "Odisha",
+    "population": 610189,
+    "aqi": 88,
+    "aqiCategory": "Moderate",
+    "latitude": 20.4625,
+    "longitude": 85.883,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 100
+      },
+      {
+        "date": "Jan",
+        "aqi": 93
+      },
+      {
+        "date": "Feb",
+        "aqi": 85
+      },
+      {
+        "date": "Mar",
+        "aqi": 91
+      },
+      {
+        "date": "Apr",
+        "aqi": 85
+      },
+      {
+        "date": "May",
+        "aqi": 76
+      }
+    ],
+    "rank": 49
+  },
+  {
+    "id": "city-16",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "population": 1841488,
+    "aqi": 115,
+    "aqiCategory": "Moderate",
+    "latitude": 19.2183,
+    "longitude": 72.9781,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 132
+      },
+      {
+        "date": "Jan",
+        "aqi": 122
+      },
+      {
+        "date": "Feb",
+        "aqi": 111
+      },
+      {
+        "date": "Mar",
+        "aqi": 119
+      },
+      {
+        "date": "Apr",
+        "aqi": 110
+      },
+      {
+        "date": "May",
+        "aqi": 101
+      }
+    ],
+    "rank": 50
+  },
+  {
+    "id": "city-90",
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "population": 451100,
+    "aqi": 88,
+    "aqiCategory": "Moderate",
+    "latitude": 24.5854,
+    "longitude": 73.7125,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 110
+      },
+      {
+        "date": "Jan",
+        "aqi": 114
+      },
+      {
+        "date": "Feb",
+        "aqi": 95
+      },
+      {
+        "date": "Mar",
+        "aqi": 83
+      },
+      {
+        "date": "Apr",
+        "aqi": 73
+      },
+      {
+        "date": "May",
+        "aqi": 67
+      }
+    ],
+    "rank": 51
+  },
+  {
+    "id": "city-8",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "population": 5577940,
+    "aqi": 138,
+    "aqiCategory": "Moderate",
+    "latitude": 23.0225,
+    "longitude": 72.5714,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 150
+      },
+      {
+        "date": "Jan",
+        "aqi": 153
+      },
+      {
+        "date": "Feb",
+        "aqi": 144
+      },
+      {
+        "date": "Mar",
+        "aqi": 140
+      },
+      {
+        "date": "Apr",
+        "aqi": 140
+      },
+      {
+        "date": "May",
+        "aqi": 119
+      }
+    ],
+    "rank": 52
+  },
+  {
+    "id": "city-28",
+    "city": "Vasai-Virar",
+    "state": "Maharashtra",
+    "population": 1222390,
+    "aqi": 118,
+    "aqiCategory": "Moderate",
+    "latitude": 19.3913,
+    "longitude": 72.8397,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 132
+      },
+      {
+        "date": "Jan",
+        "aqi": 132
+      },
+      {
+        "date": "Feb",
+        "aqi": 118
+      },
+      {
+        "date": "Mar",
+        "aqi": 114
+      },
+      {
+        "date": "Apr",
+        "aqi": 118
+      },
+      {
+        "date": "May",
+        "aqi": 102
+      }
+    ],
+    "rank": 53
+  },
+  {
+    "id": "city-75",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "population": 574840,
+    "aqi": 105,
+    "aqiCategory": "Moderate",
+    "latitude": 30.3165,
+    "longitude": 78.0322,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 133
+      },
+      {
+        "date": "Jan",
+        "aqi": 128
+      },
+      {
+        "date": "Feb",
+        "aqi": 119
+      },
+      {
+        "date": "Mar",
+        "aqi": 95
+      },
+      {
+        "date": "Apr",
+        "aqi": 83
+      },
+      {
+        "date": "May",
+        "aqi": 82
+      }
+    ],
+    "rank": 54
+  },
+  {
+    "id": "city-59",
+    "city": "Mira-Bhayandar",
+    "state": "Maharashtra",
+    "population": 814655,
+    "aqi": 112,
+    "aqiCategory": "Moderate",
+    "latitude": 19.2952,
+    "longitude": 72.8548,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 121
+      },
+      {
+        "date": "Jan",
+        "aqi": 119
+      },
+      {
+        "date": "Feb",
+        "aqi": 117
+      },
+      {
+        "date": "Mar",
+        "aqi": 107
+      },
+      {
+        "date": "Apr",
+        "aqi": 114
+      },
+      {
+        "date": "May",
+        "aqi": 97
+      }
+    ],
+    "rank": 55
+  },
+  {
+    "id": "city-91",
+    "city": "Ajmer",
+    "state": "Rajasthan",
+    "population": 542321,
+    "aqi": 105,
+    "aqiCategory": "Moderate",
+    "latitude": 26.4498,
+    "longitude": 74.6399,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 130
+      },
+      {
+        "date": "Jan",
+        "aqi": 133
+      },
+      {
+        "date": "Feb",
+        "aqi": 118
+      },
+      {
+        "date": "Mar",
+        "aqi": 96
+      },
+      {
+        "date": "Apr",
+        "aqi": 86
+      },
+      {
+        "date": "May",
+        "aqi": 86
+      }
+    ],
+    "rank": 56
+  },
+  {
+    "id": "city-69",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "population": 631364,
+    "aqi": 108,
+    "aqiCategory": "Moderate",
+    "latitude": 22.8046,
+    "longitude": 86.2029,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 123
+      },
+      {
+        "date": "Jan",
+        "aqi": 124
+      },
+      {
+        "date": "Feb",
+        "aqi": 103
+      },
+      {
+        "date": "Mar",
+        "aqi": 108
+      },
+      {
+        "date": "Apr",
+        "aqi": 105
+      },
+      {
+        "date": "May",
+        "aqi": 92
+      }
+    ],
+    "rank": 57
+  },
+  {
+    "id": "city-27",
+    "city": "Kalyan-Dombivli",
+    "state": "Maharashtra",
+    "population": 1247327,
+    "aqi": 122,
+    "aqiCategory": "Moderate",
+    "latitude": 19.2354,
+    "longitude": 73.1291,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 129
+      },
+      {
+        "date": "Jan",
+        "aqi": 135
+      },
+      {
+        "date": "Feb",
+        "aqi": 127
+      },
+      {
+        "date": "Mar",
+        "aqi": 126
+      },
+      {
+        "date": "Apr",
+        "aqi": 122
+      },
+      {
+        "date": "May",
+        "aqi": 111
+      }
+    ],
+    "rank": 58
+  },
+  {
+    "id": "city-45",
+    "city": "Kota",
+    "state": "Rajasthan",
+    "population": 1001694,
+    "aqi": 122,
+    "aqiCategory": "Moderate",
+    "latitude": 25.1825,
+    "longitude": 75.8262,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 146
+      },
+      {
+        "date": "Jan",
+        "aqi": 157
+      },
+      {
+        "date": "Feb",
+        "aqi": 134
+      },
+      {
+        "date": "Mar",
+        "aqi": 112
+      },
+      {
+        "date": "Apr",
+        "aqi": 99
+      },
+      {
+        "date": "May",
+        "aqi": 97
+      }
+    ],
+    "rank": 59
+  },
+  {
+    "id": "city-10",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "population": 3046163,
+    "aqi": 142,
+    "aqiCategory": "Moderate",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 169
+      },
+      {
+        "date": "Jan",
+        "aqi": 183
+      },
+      {
+        "date": "Feb",
+        "aqi": 153
+      },
+      {
+        "date": "Mar",
+        "aqi": 139
+      },
+      {
+        "date": "Apr",
+        "aqi": 114
+      },
+      {
+        "date": "May",
+        "aqi": 117
+      }
+    ],
+    "rank": 60
+  },
+  {
+    "id": "city-70",
+    "city": "Bhilai",
+    "state": "Chhattisgarh",
+    "population": 625700,
+    "aqi": 120,
+    "aqiCategory": "Moderate",
+    "latitude": 21.1938,
+    "longitude": 81.3509,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 134
+      },
+      {
+        "date": "Jan",
+        "aqi": 135
+      },
+      {
+        "date": "Feb",
+        "aqi": 125
+      },
+      {
+        "date": "Mar",
+        "aqi": 121
+      },
+      {
+        "date": "Apr",
+        "aqi": 114
+      },
+      {
+        "date": "May",
+        "aqi": 105
+      }
+    ],
+    "rank": 61
+  },
+  {
+    "id": "city-5",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "population": 4496694,
+    "aqi": 155,
+    "aqiCategory": "Poor",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 165
+      },
+      {
+        "date": "Jan",
+        "aqi": 171
+      },
+      {
+        "date": "Feb",
+        "aqi": 155
+      },
+      {
+        "date": "Mar",
+        "aqi": 152
+      },
+      {
+        "date": "Apr",
+        "aqi": 148
+      },
+      {
+        "date": "May",
+        "aqi": 145
+      }
+    ],
+    "rank": 62
+  },
+  {
+    "id": "city-89",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "population": 502197,
+    "aqi": 118,
+    "aqiCategory": "Moderate",
+    "latitude": 32.7266,
+    "longitude": 74.857,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 153
+      },
+      {
+        "date": "Jan",
+        "aqi": 148
+      },
+      {
+        "date": "Feb",
+        "aqi": 125
+      },
+      {
+        "date": "Mar",
+        "aqi": 116
+      },
+      {
+        "date": "Apr",
+        "aqi": 93
+      },
+      {
+        "date": "May",
+        "aqi": 91
+      }
+    ],
+    "rank": 63
+  },
+  {
+    "id": "city-97",
+    "city": "Haridwar",
+    "state": "Uttarakhand",
+    "population": 310562,
+    "aqi": 115,
+    "aqiCategory": "Moderate",
+    "latitude": 29.9457,
+    "longitude": 78.1642,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 139
+      },
+      {
+        "date": "Jan",
+        "aqi": 141
+      },
+      {
+        "date": "Feb",
+        "aqi": 125
+      },
+      {
+        "date": "Mar",
+        "aqi": 113
+      },
+      {
+        "date": "Apr",
+        "aqi": 90
+      },
+      {
+        "date": "May",
+        "aqi": 92
+      }
+    ],
+    "rank": 64
+  },
+  {
+    "id": "city-55",
+    "city": "Jalandhar",
+    "state": "Punjab",
+    "population": 862522,
+    "aqi": 135,
+    "aqiCategory": "Moderate",
+    "latitude": 31.326,
+    "longitude": 75.5762,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 161
+      },
+      {
+        "date": "Jan",
+        "aqi": 162
+      },
+      {
+        "date": "Feb",
+        "aqi": 153
+      },
+      {
+        "date": "Mar",
+        "aqi": 122
+      },
+      {
+        "date": "Apr",
+        "aqi": 113
+      },
+      {
+        "date": "May",
+        "aqi": 104
+      }
+    ],
+    "rank": 65
+  },
+  {
+    "id": "city-33",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "population": 1132383,
+    "aqi": 140,
+    "aqiCategory": "Moderate",
+    "latitude": 31.634,
+    "longitude": 74.8723,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 170
+      },
+      {
+        "date": "Jan",
+        "aqi": 170
+      },
+      {
+        "date": "Feb",
+        "aqi": 160
+      },
+      {
+        "date": "Mar",
+        "aqi": 130
+      },
+      {
+        "date": "Apr",
+        "aqi": 116
+      },
+      {
+        "date": "May",
+        "aqi": 114
+      }
+    ],
+    "rank": 66
+  },
+  {
+    "id": "city-77",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "population": 505693,
+    "aqi": 128,
+    "aqiCategory": "Moderate",
+    "latitude": 25.4484,
+    "longitude": 78.5685,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 158
+      },
+      {
+        "date": "Jan",
+        "aqi": 159
+      },
+      {
+        "date": "Feb",
+        "aqi": 141
+      },
+      {
+        "date": "Mar",
+        "aqi": 125
+      },
+      {
+        "date": "Apr",
+        "aqi": 99
+      },
+      {
+        "date": "May",
+        "aqi": 103
+      }
+    ],
+    "rank": 67
+  },
+  {
+    "id": "city-66",
+    "city": "Bikaner",
+    "state": "Rajasthan",
+    "population": 644406,
+    "aqi": 135,
+    "aqiCategory": "Moderate",
+    "latitude": 28.0191,
+    "longitude": 73.3119,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 170
+      },
+      {
+        "date": "Jan",
+        "aqi": 166
+      },
+      {
+        "date": "Feb",
+        "aqi": 153
+      },
+      {
+        "date": "Mar",
+        "aqi": 126
+      },
+      {
+        "date": "Apr",
+        "aqi": 111
+      },
+      {
+        "date": "May",
+        "aqi": 103
+      }
+    ],
+    "rank": 68
+  },
+  {
+    "id": "city-42",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "population": 1033918,
+    "aqi": 152,
+    "aqiCategory": "Poor",
+    "latitude": 26.2389,
+    "longitude": 73.0243,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 197
+      },
+      {
+        "date": "Jan",
+        "aqi": 199
+      },
+      {
+        "date": "Feb",
+        "aqi": 172
+      },
+      {
+        "date": "Mar",
+        "aqi": 151
+      },
+      {
+        "date": "Apr",
+        "aqi": 127
+      },
+      {
+        "date": "May",
+        "aqi": 125
+      }
+    ],
+    "rank": 69
+  },
+  {
+    "id": "city-35",
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "population": 1112544,
+    "aqi": 162,
+    "aqiCategory": "Poor",
+    "latitude": 25.4358,
+    "longitude": 81.8463,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 213
+      },
+      {
+        "date": "Jan",
+        "aqi": 194
+      },
+      {
+        "date": "Feb",
+        "aqi": 187
+      },
+      {
+        "date": "Mar",
+        "aqi": 159
+      },
+      {
+        "date": "Apr",
+        "aqi": 128
+      },
+      {
+        "date": "May",
+        "aqi": 133
+      }
+    ],
+    "rank": 70
+  },
+  {
+    "id": "city-76",
+    "city": "Durgapur",
+    "state": "West Bengal",
+    "population": 566517,
+    "aqi": 152,
+    "aqiCategory": "Poor",
+    "latitude": 23.48,
+    "longitude": 87.32,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 167
+      },
+      {
+        "date": "Jan",
+        "aqi": 173
+      },
+      {
+        "date": "Feb",
+        "aqi": 150
+      },
+      {
+        "date": "Mar",
+        "aqi": 154
+      },
+      {
+        "date": "Apr",
+        "aqi": 147
+      },
+      {
+        "date": "May",
+        "aqi": 141
+      }
+    ],
+    "rank": 71
+  },
+  {
+    "id": "city-96",
+    "city": "Alwar",
+    "state": "Rajasthan",
+    "population": 341422,
+    "aqi": 145,
+    "aqiCategory": "Moderate",
+    "latitude": 27.553,
+    "longitude": 76.6089,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 185
+      },
+      {
+        "date": "Jan",
+        "aqi": 178
+      },
+      {
+        "date": "Feb",
+        "aqi": 152
+      },
+      {
+        "date": "Mar",
+        "aqi": 141
+      },
+      {
+        "date": "Apr",
+        "aqi": 117
+      },
+      {
+        "date": "May",
+        "aqi": 113
+      }
+    ],
+    "rank": 72
+  },
+  {
+    "id": "city-21",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "population": 1618879,
+    "aqi": 172,
+    "aqiCategory": "Poor",
+    "latitude": 30.901,
+    "longitude": 75.8573,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 214
+      },
+      {
+        "date": "Jan",
+        "aqi": 218
+      },
+      {
+        "date": "Feb",
+        "aqi": 182
+      },
+      {
+        "date": "Mar",
+        "aqi": 171
+      },
+      {
+        "date": "Apr",
+        "aqi": 138
+      },
+      {
+        "date": "May",
+        "aqi": 142
+      }
+    ],
+    "rank": 73
+  },
+  {
+    "id": "city-36",
+    "city": "Howrah",
+    "state": "West Bengal",
+    "population": 1077075,
+    "aqi": 168,
+    "aqiCategory": "Poor",
+    "latitude": 22.5769,
+    "longitude": 88.3186,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 181
+      },
+      {
+        "date": "Jan",
+        "aqi": 184
+      },
+      {
+        "date": "Feb",
+        "aqi": 171
+      },
+      {
+        "date": "Mar",
+        "aqi": 162
+      },
+      {
+        "date": "Apr",
+        "aqi": 168
+      },
+      {
+        "date": "May",
+        "aqi": 151
+      }
+    ],
+    "rank": 74
+  },
+  {
+    "id": "city-63",
+    "city": "Bhiwandi",
+    "state": "Maharashtra",
+    "population": 709665,
+    "aqi": 162,
+    "aqiCategory": "Poor",
+    "latitude": 19.2813,
+    "longitude": 73.0483,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 177
+      },
+      {
+        "date": "Jan",
+        "aqi": 175
+      },
+      {
+        "date": "Feb",
+        "aqi": 164
+      },
+      {
+        "date": "Mar",
+        "aqi": 163
+      },
+      {
+        "date": "Apr",
+        "aqi": 165
+      },
+      {
+        "date": "May",
+        "aqi": 147
+      }
+    ],
+    "rank": 75
+  },
+  {
+    "id": "city-44",
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "population": 1010087,
+    "aqi": 175,
+    "aqiCategory": "Poor",
+    "latitude": 21.2514,
+    "longitude": 81.6296,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 196
+      },
+      {
+        "date": "Jan",
+        "aqi": 186
+      },
+      {
+        "date": "Feb",
+        "aqi": 179
+      },
+      {
+        "date": "Mar",
+        "aqi": 172
+      },
+      {
+        "date": "Apr",
+        "aqi": 168
+      },
+      {
+        "date": "May",
+        "aqi": 164
+      }
+    ],
+    "rank": 76
+  },
+  {
+    "id": "city-29",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "population": 1198491,
+    "aqi": 182,
+    "aqiCategory": "Poor",
+    "latitude": 25.3176,
+    "longitude": 82.9739,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 231
+      },
+      {
+        "date": "Jan",
+        "aqi": 220
+      },
+      {
+        "date": "Feb",
+        "aqi": 194
+      },
+      {
+        "date": "Mar",
+        "aqi": 177
+      },
+      {
+        "date": "Apr",
+        "aqi": 147
+      },
+      {
+        "date": "May",
+        "aqi": 139
+      }
+    ],
+    "rank": 77
+  },
+  {
+    "id": "city-95",
+    "city": "Bathinda",
+    "state": "Punjab",
+    "population": 285813,
+    "aqi": 165,
+    "aqiCategory": "Poor",
+    "latitude": 30.211,
+    "longitude": 74.9454,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 202
+      },
+      {
+        "date": "Jan",
+        "aqi": 198
+      },
+      {
+        "date": "Feb",
+        "aqi": 189
+      },
+      {
+        "date": "Mar",
+        "aqi": 150
+      },
+      {
+        "date": "Apr",
+        "aqi": 127
+      },
+      {
+        "date": "May",
+        "aqi": 132
+      }
+    ],
+    "rank": 78
+  },
+  {
+    "id": "city-65",
+    "city": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "population": 673446,
+    "aqi": 180,
+    "aqiCategory": "Poor",
+    "latitude": 26.7606,
+    "longitude": 83.3731,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 220
+      },
+      {
+        "date": "Jan",
+        "aqi": 217
+      },
+      {
+        "date": "Feb",
+        "aqi": 199
+      },
+      {
+        "date": "Mar",
+        "aqi": 171
+      },
+      {
+        "date": "Apr",
+        "aqi": 139
+      },
+      {
+        "date": "May",
+        "aqi": 145
+      }
+    ],
+    "rank": 79
+  },
+  {
+    "id": "city-50",
+    "city": "Bareilly",
+    "state": "Uttar Pradesh",
+    "population": 903668,
+    "aqi": 185,
+    "aqiCategory": "Poor",
+    "latitude": 28.364,
+    "longitude": 79.415,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 233
+      },
+      {
+        "date": "Jan",
+        "aqi": 240
+      },
+      {
+        "date": "Feb",
+        "aqi": 208
+      },
+      {
+        "date": "Mar",
+        "aqi": 170
+      },
+      {
+        "date": "Apr",
+        "aqi": 155
+      },
+      {
+        "date": "May",
+        "aqi": 144
+      }
+    ],
+    "rank": 80
+  },
+  {
+    "id": "city-46",
+    "city": "Guwahati",
+    "state": "Assam",
+    "population": 957352,
+    "aqi": 190,
+    "aqiCategory": "Poor",
+    "latitude": 26.1445,
+    "longitude": 91.7362,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 217
+      },
+      {
+        "date": "Jan",
+        "aqi": 199
+      },
+      {
+        "date": "Feb",
+        "aqi": 198
+      },
+      {
+        "date": "Mar",
+        "aqi": 192
+      },
+      {
+        "date": "Apr",
+        "aqi": 181
+      },
+      {
+        "date": "May",
+        "aqi": 169
+      }
+    ],
+    "rank": 81
+  },
+  {
+    "id": "city-22",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "population": 1585704,
+    "aqi": 198,
+    "aqiCategory": "Poor",
+    "latitude": 27.1767,
+    "longitude": 78.0081,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 259
+      },
+      {
+        "date": "Jan",
+        "aqi": 247
+      },
+      {
+        "date": "Feb",
+        "aqi": 224
+      },
+      {
+        "date": "Mar",
+        "aqi": 190
+      },
+      {
+        "date": "Apr",
+        "aqi": 153
+      },
+      {
+        "date": "May",
+        "aqi": 157
+      }
+    ],
+    "rank": 82
+  },
+  {
+    "id": "city-54",
+    "city": "Aligarh",
+    "state": "Uttar Pradesh",
+    "population": 874408,
+    "aqi": 195,
+    "aqiCategory": "Poor",
+    "latitude": 27.8974,
+    "longitude": 78.088,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 238
+      },
+      {
+        "date": "Jan",
+        "aqi": 249
+      },
+      {
+        "date": "Feb",
+        "aqi": 224
+      },
+      {
+        "date": "Mar",
+        "aqi": 191
+      },
+      {
+        "date": "Apr",
+        "aqi": 150
+      },
+      {
+        "date": "May",
+        "aqi": 161
+      }
+    ],
+    "rank": 83
+  },
+  {
+    "id": "city-32",
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "population": 1162472,
+    "aqi": 205,
+    "aqiCategory": "Poor",
+    "latitude": 23.7957,
+    "longitude": 86.4304,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 220
+      },
+      {
+        "date": "Jan",
+        "aqi": 231
+      },
+      {
+        "date": "Feb",
+        "aqi": 197
+      },
+      {
+        "date": "Mar",
+        "aqi": 214
+      },
+      {
+        "date": "Apr",
+        "aqi": 198
+      },
+      {
+        "date": "May",
+        "aqi": 187
+      }
+    ],
+    "rank": 84
+  },
+  {
+    "id": "city-38",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "population": 1069276,
+    "aqi": 215,
+    "aqiCategory": "Poor",
+    "latitude": 26.2183,
+    "longitude": 78.1828,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 225
+      },
+      {
+        "date": "Jan",
+        "aqi": 233
+      },
+      {
+        "date": "Feb",
+        "aqi": 219
+      },
+      {
+        "date": "Mar",
+        "aqi": 215
+      },
+      {
+        "date": "Apr",
+        "aqi": 206
+      },
+      {
+        "date": "May",
+        "aqi": 195
+      }
+    ],
+    "rank": 85
+  },
+  {
+    "id": "city-64",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "population": 705478,
+    "aqi": 210,
+    "aqiCategory": "Poor",
+    "latitude": 29.964,
+    "longitude": 77.546,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 269
+      },
+      {
+        "date": "Jan",
+        "aqi": 262
+      },
+      {
+        "date": "Feb",
+        "aqi": 222
+      },
+      {
+        "date": "Mar",
+        "aqi": 208
+      },
+      {
+        "date": "Apr",
+        "aqi": 160
+      },
+      {
+        "date": "May",
+        "aqi": 172
+      }
+    ],
+    "rank": 86
+  },
+  {
+    "id": "city-51",
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "population": 887871,
+    "aqi": 220,
+    "aqiCategory": "Poor",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 268
+      },
+      {
+        "date": "Jan",
+        "aqi": 276
+      },
+      {
+        "date": "Feb",
+        "aqi": 230
+      },
+      {
+        "date": "Mar",
+        "aqi": 211
+      },
+      {
+        "date": "Apr",
+        "aqi": 178
+      },
+      {
+        "date": "May",
+        "aqi": 184
+      }
+    ],
+    "rank": 87
+  },
+  {
+    "id": "city-25",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "population": 1305429,
+    "aqi": 235,
+    "aqiCategory": "Poor",
+    "latitude": 28.9845,
+    "longitude": 77.7064,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 300
+      },
+      {
+        "date": "Jan",
+        "aqi": 290
+      },
+      {
+        "date": "Feb",
+        "aqi": 255
+      },
+      {
+        "date": "Mar",
+        "aqi": 222
+      },
+      {
+        "date": "Apr",
+        "aqi": 183
+      },
+      {
+        "date": "May",
+        "aqi": 184
+      }
+    ],
+    "rank": 88
+  },
+  {
+    "id": "city-94",
+    "city": "Karnal",
+    "state": "Haryana",
+    "population": 286827,
+    "aqi": 215,
+    "aqiCategory": "Poor",
+    "latitude": 29.6857,
+    "longitude": 76.9905,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 262
+      },
+      {
+        "date": "Jan",
+        "aqi": 277
+      },
+      {
+        "date": "Feb",
+        "aqi": 242
+      },
+      {
+        "date": "Mar",
+        "aqi": 209
+      },
+      {
+        "date": "Apr",
+        "aqi": 172
+      },
+      {
+        "date": "May",
+        "aqi": 164
+      }
+    ],
+    "rank": 89
+  },
+  {
+    "id": "city-11",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "population": 2817105,
+    "aqi": 245,
+    "aqiCategory": "Poor",
+    "latitude": 26.8467,
+    "longitude": 80.9462,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 318
+      },
+      {
+        "date": "Jan",
+        "aqi": 312
+      },
+      {
+        "date": "Feb",
+        "aqi": 272
+      },
+      {
+        "date": "Mar",
+        "aqi": 223
+      },
+      {
+        "date": "Apr",
+        "aqi": 190
+      },
+      {
+        "date": "May",
+        "aqi": 192
+      }
+    ],
+    "rank": 90
+  },
+  {
+    "id": "city-72",
+    "city": "Firozabad",
+    "state": "Uttar Pradesh",
+    "population": 604214,
+    "aqi": 230,
+    "aqiCategory": "Poor",
+    "latitude": 27.15,
+    "longitude": 78.4,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 279
+      },
+      {
+        "date": "Jan",
+        "aqi": 297
+      },
+      {
+        "date": "Feb",
+        "aqi": 261
+      },
+      {
+        "date": "Mar",
+        "aqi": 223
+      },
+      {
+        "date": "Apr",
+        "aqi": 176
+      },
+      {
+        "date": "May",
+        "aqi": 184
+      }
+    ],
+    "rank": 91
+  },
+  {
+    "id": "city-12",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "population": 2765348,
+    "aqi": 260,
+    "aqiCategory": "Poor",
+    "latitude": 26.4499,
+    "longitude": 80.3319,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 312
+      },
+      {
+        "date": "Jan",
+        "aqi": 334
+      },
+      {
+        "date": "Feb",
+        "aqi": 272
+      },
+      {
+        "date": "Mar",
+        "aqi": 248
+      },
+      {
+        "date": "Apr",
+        "aqi": 211
+      },
+      {
+        "date": "May",
+        "aqi": 211
+      }
+    ],
+    "rank": 92
+  },
+  {
+    "id": "city-93",
+    "city": "Hisar",
+    "state": "Haryana",
+    "population": 301383,
+    "aqi": 240,
+    "aqiCategory": "Poor",
+    "latitude": 29.1487,
+    "longitude": 75.7217,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 307
+      },
+      {
+        "date": "Jan",
+        "aqi": 310
+      },
+      {
+        "date": "Feb",
+        "aqi": 274
+      },
+      {
+        "date": "Mar",
+        "aqi": 219
+      },
+      {
+        "date": "Apr",
+        "aqi": 193
+      },
+      {
+        "date": "May",
+        "aqi": 192
+      }
+    ],
+    "rank": 93
+  },
+  {
+    "id": "city-92",
+    "city": "Rohtak",
+    "state": "Haryana",
+    "population": 374292,
+    "aqi": 255,
+    "aqiCategory": "Poor",
+    "latitude": 28.8955,
+    "longitude": 76.6066,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 312
+      },
+      {
+        "date": "Jan",
+        "aqi": 312
+      },
+      {
+        "date": "Feb",
+        "aqi": 291
+      },
+      {
+        "date": "Mar",
+        "aqi": 235
+      },
+      {
+        "date": "Apr",
+        "aqi": 196
+      },
+      {
+        "date": "May",
+        "aqi": 198
+      }
+    ],
+    "rank": 94
+  },
+  {
+    "id": "city-14",
+    "city": "Patna",
+    "state": "Bihar",
+    "population": 1684222,
+    "aqi": 280,
+    "aqiCategory": "Poor",
+    "latitude": 25.5941,
+    "longitude": 85.1376,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 293
+      },
+      {
+        "date": "Jan",
+        "aqi": 294
+      },
+      {
+        "date": "Feb",
+        "aqi": 278
+      },
+      {
+        "date": "Mar",
+        "aqi": 275
+      },
+      {
+        "date": "Apr",
+        "aqi": 270
+      },
+      {
+        "date": "May",
+        "aqi": 248
+      }
+    ],
+    "rank": 95
+  },
+  {
+    "id": "city-20",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "population": 1648643,
+    "aqi": 310,
+    "aqiCategory": "Severe",
+    "latitude": 28.6692,
+    "longitude": 77.4538,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 392
+      },
+      {
+        "date": "Jan",
+        "aqi": 400
+      },
+      {
+        "date": "Feb",
+        "aqi": 336
+      },
+      {
+        "date": "Mar",
+        "aqi": 305
+      },
+      {
+        "date": "Apr",
+        "aqi": 238
+      },
+      {
+        "date": "May",
+        "aqi": 255
+      }
+    ],
+    "rank": 96
+  },
+  {
+    "id": "city-24",
+    "city": "Faridabad",
+    "state": "Haryana",
+    "population": 1414050,
+    "aqi": 320,
+    "aqiCategory": "Severe",
+    "latitude": 28.4089,
+    "longitude": 77.3178,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 391
+      },
+      {
+        "date": "Jan",
+        "aqi": 406
+      },
+      {
+        "date": "Feb",
+        "aqi": 355
+      },
+      {
+        "date": "Mar",
+        "aqi": 304
+      },
+      {
+        "date": "Apr",
+        "aqi": 253
+      },
+      {
+        "date": "May",
+        "aqi": 268
+      }
+    ],
+    "rank": 97
+  },
+  {
+    "id": "city-53",
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "population": 876900,
+    "aqi": 325,
+    "aqiCategory": "Severe",
+    "latitude": 28.4595,
+    "longitude": 77.0266,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 399
+      },
+      {
+        "date": "Jan",
+        "aqi": 421
+      },
+      {
+        "date": "Feb",
+        "aqi": 344
+      },
+      {
+        "date": "Mar",
+        "aqi": 310
+      },
+      {
+        "date": "Apr",
+        "aqi": 267
+      },
+      {
+        "date": "May",
+        "aqi": 257
+      }
+    ],
+    "rank": 98
+  },
+  {
+    "id": "city-68",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "population": 637272,
+    "aqi": 340,
+    "aqiCategory": "Severe",
+    "latitude": 28.5355,
+    "longitude": 77.391,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 429
+      },
+      {
+        "date": "Jan",
+        "aqi": 437
+      },
+      {
+        "date": "Feb",
+        "aqi": 378
+      },
+      {
+        "date": "Mar",
+        "aqi": 331
+      },
+      {
+        "date": "Apr",
+        "aqi": 267
+      },
+      {
+        "date": "May",
+        "aqi": 273
+      }
+    ],
+    "rank": 99
+  },
+  {
+    "id": "city-1",
+    "city": "Delhi",
+    "state": "Delhi",
+    "population": 16787941,
+    "aqi": 365,
+    "aqiCategory": "Severe",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "historicalAQI": [
+      {
+        "date": "Dec",
+        "aqi": 475
+      },
+      {
+        "date": "Jan",
+        "aqi": 453
+      },
+      {
+        "date": "Feb",
+        "aqi": 394
+      },
+      {
+        "date": "Mar",
+        "aqi": 333
+      },
+      {
+        "date": "Apr",
+        "aqi": 279
+      },
+      {
+        "date": "May",
+        "aqi": 294
+      }
+    ],
+    "rank": 100
+  }
+]
