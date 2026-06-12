@@ -7,7 +7,7 @@
 
 UrbanPulse AI is a state-of-the-art interactive dashboard designed to cross-reference environmental and demographic datasets for 100 prominent Indian cities. By combining CPCB (Central Pollution Control Board) Air Quality Index (AQI) data with Census demographic figures, UrbanPulse AI helps city planners, environmental officers, and citizens analyze sustainability, pollution loads, and population risks through a premium visual experience.
 
-🔗 **Live Prototype**: [UrbanPulse AI on Vercel](https://urban-pulse-ai-india-s-city-intelligence-d.vercel.app/)
+🔗 **Live Prototype**: [UrbanPulse AI on Vercel](https://urban-pulse-ai-india-s-city-intelli.vercel.app)
 
 ---
 
